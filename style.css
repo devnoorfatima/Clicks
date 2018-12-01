@@ -30,7 +30,7 @@ body{
     width: 80%;
 }
 .size2{
-    height: 50%;
+    height: 60%;
     width:80%;
 }
 /* --------- */
@@ -44,7 +44,7 @@ body{
     text-align: center;
   }
   .box {
-    width:60em;
+    width:100%;
     border:1px solid grey;
     display: inline-block;
     vertical-align: top;
@@ -76,7 +76,7 @@ body{
   }
   
   .red:before {
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.7);
   }
 
   
